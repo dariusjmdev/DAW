@@ -343,6 +343,6 @@ La documentación refleja un proceso completo y ordenado.
 
 <div align="center">
 
-**Darius Joanito Marinescu** · Administración de Sistemas · 20/09/2026
+**Darius Joanito Marinescu** · 20/09/2026
 
 </div>
